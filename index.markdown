@@ -5,4 +5,4 @@
 layout: default
 ---
 
-# Welcome to my new site!
+Checkout my about page [here](/about/)
